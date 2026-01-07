@@ -1,0 +1,12 @@
+G:\Jogos\tetris_rust\target\debug\deps\ecolor-e3d375cbe7bcb4a5.d: C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\lib.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\color32.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva_gamma.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\rgba.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hex_color_runtime.rs
+
+G:\Jogos\tetris_rust\target\debug\deps\libecolor-e3d375cbe7bcb4a5.rlib: C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\lib.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\color32.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva_gamma.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\rgba.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hex_color_runtime.rs
+
+G:\Jogos\tetris_rust\target\debug\deps\libecolor-e3d375cbe7bcb4a5.rmeta: C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\lib.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\color32.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva_gamma.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\rgba.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hex_color_runtime.rs
+
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\lib.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\color32.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva_gamma.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hsva.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\rgba.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.29.1\src\hex_color_runtime.rs:

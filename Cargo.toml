@@ -1,0 +1,11 @@
+[package]
+name = "tetris_rust"
+version = "1.0.0"
+edition = "2021"
+authors = ["Seu Nome <seuemail@example.com>"]
+description = "Tetris moderno com UI gráfica em Rust"
+license = "MIT"
+
+[dependencies]
+eframe = "0.29"
+rand = "0.8"

@@ -1,0 +1,11 @@
+G:\Jogos\tetris_rust\target\debug\deps\immutable_chunkmap-9863b12d3d6187a9.d: C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\lib.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\avl.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\chunk.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\map.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\set.rs
+
+G:\Jogos\tetris_rust\target\debug\deps\libimmutable_chunkmap-9863b12d3d6187a9.rlib: C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\lib.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\avl.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\chunk.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\map.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\set.rs
+
+G:\Jogos\tetris_rust\target\debug\deps\libimmutable_chunkmap-9863b12d3d6187a9.rmeta: C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\lib.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\avl.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\chunk.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\map.rs C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\set.rs
+
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\lib.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\avl.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\chunk.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\map.rs:
+C:\Users\miche\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\immutable-chunkmap-2.1.2\src\set.rs:

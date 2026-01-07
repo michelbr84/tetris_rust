@@ -3,6 +3,8 @@
 Um jogo **Tetris completo** implementado em **Rust** com interface gráfica moderna usando **egui/eframe**.  
 Sem imagens externas, sem áudio — visual gerado inteiramente por código!
 
+![Tetris Rust](src/img/game.png)
+
 ## 🧩 Recursos
 
 - Interface gráfica moderna com tema escuro/neon
